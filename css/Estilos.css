@@ -11,10 +11,6 @@ body div {
     -webkit-margin-before: 100px;
 }
 
-header {
-    background: pink;
-}
-
 h1,h2,h3,h4,h5,h6 {
     font-family: 'fjalla One' , sans-serif;
     font-weight: normal;
