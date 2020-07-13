@@ -1,0 +1,51 @@
+body{
+    background-image: url("../Imagenes/fantasia-hongos3.jpg");
+    color: #ffffff;
+}
+
+body div {
+    background-color:transparent;
+    -webkit-margin-start: 100px;
+    -webkit-margin-end: 100px;
+    -webkit-margin-after: 100px;
+    -webkit-margin-before: 100px;
+}
+
+header {
+    background: pink;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'fjalla One' , sans-serif;
+    font-weight: normal;
+    /*font-style: italic;*/
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 1;
+    letter-spacing: -0.2px;
+    /*text-transform: capitalize;
+    text-decoration: dashed;*/
+}
+
+.hero{
+    height: 300px;
+    
+}
+
+
+.project-details {
+    width: 500px;
+}
+.project-imageContainer {
+    width: 500px;
+}
+
+.header{
+    background-color: powderblue;
+}
+
+.header a {
+    color: black;
+}
