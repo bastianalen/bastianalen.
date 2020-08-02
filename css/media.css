@@ -1,0 +1,81 @@
+@media screen and (max-width: 1023px) {
+    .div-body {
+        margin: 10px 3%;
+    }
+    .project-details {
+        width: 80%;
+    }
+    .project-imageContainer {
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .div-body {
+        margin: 10px 3%;
+    }
+    .header {
+        display: block;
+        height: auto;
+    }
+    .header ol {
+        display: block;
+    }
+    .header ol li {
+        height: 50px;
+    }
+    .header a {
+        justify-content: center;
+    }
+    .header .logo {
+        text-align: center;
+    }
+    .project-details {
+        width: auto;
+        font-size: 10px;
+    }
+    .project-tittle {
+        font-size: 1em;
+    }
+    .project-url {
+        font-size: 2em;
+    }
+    .project-course {
+        font-size: 1.3em;
+    }
+    .project-date {
+        font-size: 1.3em;
+    }
+    .project-description {
+        font-size: 2em;
+    }
+    .event {
+        margin: 10px;
+        font-size: 16px;
+    }
+    .event-title {
+        font-size: 1em;
+    }
+    
+    .event-description {
+        font-size: 1em;
+    }
+    
+    .event-Border {
+        margin: 10px;
+        width: 100%;
+    }
+    
+    .event-imageContainer {
+        margin: 10px;
+    }
+    .event-imageContainer img {
+    width: 100%;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .div-body {
+        margin: 10px 10px;
+    }
+}
