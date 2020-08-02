@@ -64,10 +64,15 @@ h2 strong {
     align-items: center;
     flex-wrap: wrap;
 }
-
+.hero h1 {
+    width: 48%;
+    margin: 1%;
+}
 .hero-image {
     object-fit: cover;
     flex-shrink: 0;
+    width: 48%;
+    margin: 1%;
 }
 
 .Border-portafolio {

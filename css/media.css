@@ -14,6 +14,27 @@
     .div-body {
         margin: 10px 3%;
     }
+
+    .Border-hero {
+
+    }
+    .hero{
+        justify-content: center;
+        display: flex;
+    }
+    .hero h1 {
+        width: 95%;
+        font-size: 25px;
+        justify-content: center;
+    }
+    .hero-image {
+        justify-content: center;
+        width: 250px;
+    }
+    .hero-image img{
+        width: 100%;
+    }
+
     .header {
         display: block;
         height: auto;
